@@ -1,0 +1,118 @@
+filename,segment,location ,split
+College-BH.C.P01.S02.TL.09-FINAL,ND-1,0,b
+College-BH.C.P01.S02.TL.09-FINAL,AR-1,0.25,b
+College-BH.C.P01.S02.TL.09-FINAL,ND-1,0.5,b
+College-BH.C.P01.S02.TL.09-FINAL,AR-1,0.75,e
+College-BH.C.P01.S02.TL.09-FINAL,SR,1,e
+segment,segment,,
+College-BH.C.P02.S02.TL.09-FINAL,ND-1,0,b
+College-BH.C.P02.S02.TL.09-FINAL,ND-2/3,0.07,b
+College-BH.C.P02.S02.TL.09-FINAL,AR-1,0.14,b
+College-BH.C.P02.S02.TL.09-FINAL,ND-1,0.21,b
+College-BH.C.P02.S02.TL.09-FINAL,CE-2/3,0.29,b
+College-BH.C.P02.S02.TL.09-FINAL,AR-1,0.36,b
+College-BH.C.P02.S02.TL.09-FINAL,ND-1,0.43,b
+College-BH.C.P02.S02.TL.09-FINAL,ND-2/3,0.5,b
+College-BH.C.P02.S02.TL.09-FINAL,AR-1,0.57,e
+College-BH.C.P02.S02.TL.09-FINAL,CE-1,0.64,e
+College-BH.C.P02.S02.TL.09-FINAL,AR-1,0.71,e
+College-BH.C.P02.S02.TL.09-FINAL,ND-1,0.79,e
+College-BH.C.P02.S02.TL.09-FINAL,AR-1,0.86,e
+College-BH.C.P02.S02.TL.09-FINAL,AR-1,0.93,e
+College-BH.C.P02.S02.TL.09-FINAL,SR,1,e
+segment,segment,,
+College-BH.C.P03.S02.TL09 - FINAL,ND-1,0,b
+College-BH.C.P03.S02.TL09 - FINAL,AR-1,0.13,b
+College-BH.C.P03.S02.TL09 - FINAL,ND-1,0.25,b
+College-BH.C.P03.S02.TL09 - FINAL,AR-1,0.38,b
+College-BH.C.P03.S02.TL09 - FINAL,AR-2/3,0.5,b
+College-BH.C.P03.S02.TL09 - FINAL,ND-1,0.63,e
+College-BH.C.P03.S02.TL09 - FINAL,AR-1,0.75,e
+College-BH.C.P03.S02.TL09 - FINAL,CE-2/3,0.88,e
+College-BH.C.P03.S02.TL09 - FINAL,SR,1,e
+segment,segment,,
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0,b
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.04,b
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.08,b
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.12,b
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.16,b
+College-JV.C.P01.S02.TL.09 - FINAL,ND-2/3,0.2,b
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.24,b
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.28,b
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.32,b
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.36,b
+College-JV.C.P01.S02.TL.09 - FINAL,CE-2/3,0.4,b
+College-JV.C.P01.S02.TL.09 - FINAL,ND-2/3,0.44,b
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.48,b
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.52,e
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.56,e
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.6,e
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.64,e
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.68,e
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.72,e
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.76,e
+College-JV.C.P01.S02.TL.09 - FINAL,AR-2/3,0.8,e
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.84,e
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.88,e
+College-JV.C.P01.S02.TL.09 - FINAL,ND-1,0.92,e
+College-JV.C.P01.S02.TL.09 - FINAL,AR-1,0.96,e
+College-JV.C.P01.S02.TL.09 - FINAL,SR,1,e
+segment,segment,,
+College-JV.C.P02.S03 - Final,ND-1,0,b
+College-JV.C.P02.S03 - Final,ND-2/3,0.2,b
+College-JV.C.P02.S03 - Final,AR-1,0.4,b
+College-JV.C.P02.S03 - Final,ND-1,0.6,e
+College-JV.C.P02.S03 - Final,AR-1,0.8,e
+College-JV.C.P02.S03 - Final,SR,1,e
+segment,segment,,
+College-JV.C.P03.S03.TL.09 - Final,ND-1,0,b
+College-JV.C.P03.S03.TL.09 - Final,AR-1,0.25,b
+College-JV.C.P03.S03.TL.09 - Final,ND-1,0.5,b
+College-JV.C.P03.S03.TL.09 - Final,AR-1,0.75,e
+College-JV.C.P03.S03.TL.09 - Final,SR,1,e
+segment,segment,,
+College-MG.C.P01.S02_TL09 - Final,ND-1,0,b
+College-MG.C.P01.S02_TL09 - Final,ND-2/3,0.06,b
+College-MG.C.P01.S02_TL09 - Final,CE-1,0.13,b
+College-MG.C.P01.S02_TL09 - Final,ND-2/3,0.19,b
+College-MG.C.P01.S02_TL09 - Final,AR-1,0.25,b
+College-MG.C.P01.S02_TL09 - Final,ND-1,0.31,b
+College-MG.C.P01.S02_TL09 - Final,ND-2/3,0.38,b
+College-MG.C.P01.S02_TL09 - Final,AR-1,0.44,b
+College-MG.C.P01.S02_TL09 - Final,ND-1,0.5,b
+College-MG.C.P01.S02_TL09 - Final,AR-1,0.56,e
+College-MG.C.P01.S02_TL09 - Final,ND-1,0.63,e
+College-MG.C.P01.S02_TL09 - Final,ND-2/3,0.69,e
+College-MG.C.P01.S02_TL09 - Final,AR-1,0.75,e
+College-MG.C.P01.S02_TL09 - Final,ND-1,0.81,e
+College-MG.C.P01.S02_TL09 - Final,CE-2/3,0.88,e
+College-MG.C.P01.S02_TL09 - Final,AR-1,0.94,e
+College-MG.C.P01.S02_TL09 - Final,SR,1,e
+segment,segment,,
+College-RH.C.P01.S01.TL.09 - Final,ND-1,0,b
+College-RH.C.P01.S01.TL.09 - Final,ND-2/3,0.1,b
+College-RH.C.P01.S01.TL.09 - Final,AR-1,0.2,b
+College-RH.C.P01.S01.TL.09 - Final,ND-1,0.3,b
+College-RH.C.P01.S01.TL.09 - Final,AR-1,0.4,b
+College-RH.C.P01.S01.TL.09 - Final,ND-1,0.5,b
+College-RH.C.P01.S01.TL.09 - Final,AR-1,0.6,e
+College-RH.C.P01.S01.TL.09 - Final,ND-1,0.7,e
+College-RH.C.P01.S01.TL.09 - Final,CE-2/3,0.8,e
+College-RH.C.P01.S01.TL.09 - Final,AR-2/3,0.9,e
+College-RH.C.P01.S01.TL.09 - Final,SR,1,e
+segment,segment,,
+College-RH.C.P02.S01.TL.09 - Final,ND-1,0,b
+College-RH.C.P02.S01.TL.09 - Final,ND-2/3,0.08,b
+College-RH.C.P02.S01.TL.09 - Final,AR-1,0.15,b
+College-RH.C.P02.S01.TL.09 - Final,ND-1,0.23,b
+College-RH.C.P02.S01.TL.09 - Final,AR-1,0.31,b
+College-RH.C.P02.S01.TL.09 - Final,ND-1,0.38,b
+College-RH.C.P02.S01.TL.09 - Final,ND-2/3,0.46,b
+College-RH.C.P02.S01.TL.09 - Final,CE-2/3,0.54,e
+College-RH.C.P02.S01.TL.09 - Final,AR-1,0.62,e
+College-RH.C.P02.S01.TL.09 - Final,AR-1,0.69,e
+College-RH.C.P02.S01.TL.09 - Final,ND-1,0.77,e
+College-RH.C.P02.S01.TL.09 - Final,CE-2/3,0.85,e
+College-RH.C.P02.S01.TL.09 - Final,AR-1,0.92,e
+College-RH.C.P02.S01.TL.09 - Final,SR,1,e
+segment,,,

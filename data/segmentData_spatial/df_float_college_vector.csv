@@ -1,0 +1,117 @@
+filename,segment,location ,split 
+BH.C.P01.S02 - Final,ND-2/3,0,b
+BH.C.P01.S02 - Final,CE-2/3,0.07,b
+BH.C.P01.S02 - Final,AR-1,0.13,b
+BH.C.P01.S02 - Final,ND-1,0.2,b
+BH.C.P01.S02 - Final,ND-2/3,0.27,b
+BH.C.P01.S02 - Final,AR-2/3,0.33,b
+BH.C.P01.S02 - Final,ND-1,0.4,b
+BH.C.P01.S02 - Final,CE-2/3,0.47,b
+BH.C.P01.S02 - Final,AR-1,0.53,e
+BH.C.P01.S02 - Final,AR-1,0.6,e
+BH.C.P01.S02 - Final,ND-1,0.67,e
+BH.C.P01.S02 - Final,CE-2/3,0.73,e
+BH.C.P01.S02 - Final,AR-1,0.8,e
+BH.C.P01.S02 - Final,ND-1,0.87,e
+BH.C.P01.S02 - Final,AR-1,0.93,e
+BH.C.P01.S02 - Final,SR,1,e
+segment,segment,,
+BH.C.P02.S02 - Final,ND-2/3,0,b
+BH.C.P02.S02 - Final,CE-2/3,0.33,b
+BH.C.P02.S02 - Final,AR-1,0.67,e
+BH.C.P02.S02 - Final,SR,1,e
+segment,segment,,
+BH.C.P03.S03 - Final,ND-1,0,b
+BH.C.P03.S03 - Final,AR-1,0.11,b
+BH.C.P03.S03 - Final,ND-1,0.22,b
+BH.C.P03.S03 - Final,CE-2/3,0.33,b
+BH.C.P03.S03 - Final,AR-2/3,0.44,b
+BH.C.P03.S03 - Final,ND-1,0.56,e
+BH.C.P03.S03 - Final,AR-1,0.67,e
+BH.C.P03.S03 - Final,ND-1,0.78,e
+BH.C.P03.S03 - Final,AR-1,0.89,e
+BH.C.P03.S03 - Final,SR,1,e
+segment,segment,,
+JV.C.P01.S03 - Final,ND-1,0,b
+JV.C.P01.S03 - Final,CE-2/3,0.14,b
+JV.C.P01.S03 - Final,AR-1,0.29,b
+JV.C.P01.S03 - Final,ND-1,0.43,b
+JV.C.P01.S03 - Final,AR-1,0.57,e
+JV.C.P01.S03 - Final,ND-1,0.71,e
+JV.C.P01.S03 - Final,AR-1,0.86,e
+JV.C.P01.S03 - Final,SR,1,e
+segment,segment,,
+JV.C.P02.S02 - Final,ND-1,0,b
+JV.C.P02.S02 - Final,ND-1,0.09,b
+JV.C.P02.S02 - Final,AR-1,0.18,b
+JV.C.P02.S02 - Final,ND-1,0.27,b
+JV.C.P02.S02 - Final,CE-2/3,0.36,b
+JV.C.P02.S02 - Final,ND-2/3,0.45,b
+JV.C.P02.S02 - Final,CE-1,0.55,e
+JV.C.P02.S02 - Final,AR-1,0.64,e
+JV.C.P02.S02 - Final,ND-1,0.73,e
+JV.C.P02.S02 - Final,CE-2/3,0.82,e
+JV.C.P02.S02 - Final,AR-1,0.91,e
+JV.C.P02.S02 - Final,SR,1,e
+segment,segment,,
+JV.C.P03.S02 - Final,ND-1,0,b
+JV.C.P03.S02 - Final,AR-1,0.11,b
+JV.C.P03.S02 - Final,ND-1,0.22,b
+JV.C.P03.S02 - Final,AR-1,0.33,b
+JV.C.P03.S02 - Final,ND-1,0.44,b
+JV.C.P03.S02 - Final,AR-1,0.56,e
+JV.C.P03.S02 - Final,ND-1,0.67,e
+JV.C.P03.S02 - Final,AR-1,0.78,e
+JV.C.P03.S02 - Final,ND-1,0.89,e
+JV.C.P03.S02 - Final,SR,1,e
+segment,segment,,
+MG.C.P01.S02 - Final,ND-1,0,b
+MG.C.P01.S02 - Final,CE-2/3,0.07,b
+MG.C.P01.S02 - Final,AR-2/3,0.13,b
+MG.C.P01.S02 - Final,ND-1,0.2,b
+MG.C.P01.S02 - Final,AR-1,0.27,b
+MG.C.P01.S02 - Final,ND-1,0.33,b
+MG.C.P01.S02 - Final,AR-1,0.4,b
+MG.C.P01.S02 - Final,ND-2/3,0.47,b
+MG.C.P01.S02 - Final,AR-1,0.53,e
+MG.C.P01.S02 - Final,ND-2/3,0.6,e
+MG.C.P01.S02 - Final,AR-1,0.67,e
+MG.C.P01.S02 - Final,ND-1,0.73,e
+MG.C.P01.S02 - Final,CE-2/3,0.8,e
+MG.C.P01.S02 - Final,ND-1,0.87,e
+MG.C.P01.S02 - Final,AR-1,0.93,e
+MG.C.P01.S02 - Final,SR,1,e
+segment,segment,,
+MG.C.P02.S01 - Final,ND-1,0,b
+MG.C.P02.S01 - Final,AR-2/3,0.33,b
+MG.C.P02.S01 - Final,SR,0.67,e
+MG.C.P02.S01 - Final,CE-2/3,1,e
+segment,segment,,
+RH.C.P01.S02 - Final,ND-1,0,b
+RH.C.P01.S02 - Final,CE-2/3,0.33,b
+RH.C.P01.S02 - Final,AR-1,0.67,e
+RH.C.P01.S02 - Final,SR,1,e
+segment,segment,,
+RH.C.P02.SI.01 - Final,ND-1,0,b
+RH.C.P02.SI.01 - Final,CE-1,0.33,b
+RH.C.P02.SI.01 - Final,AR-1,0.67,e
+RH.C.P02.SI.01 - Final,SR,1,e
+segment,segment,,
+RH.C.P03.S03.SI.01 - Final,ND-1,0,b
+RH.C.P03.S03.SI.01 - Final,CE-2/3,0.06,b
+RH.C.P03.S03.SI.01 - Final,AR-2/3,0.13,b
+RH.C.P03.S03.SI.01 - Final,ND-1,0.19,b
+RH.C.P03.S03.SI.01 - Final,AR-1,0.25,b
+RH.C.P03.S03.SI.01 - Final,ND-1,0.31,b
+RH.C.P03.S03.SI.01 - Final,AR-2/3,0.38,b
+RH.C.P03.S03.SI.01 - Final,ND-1,0.44,b
+RH.C.P03.S03.SI.01 - Final,AR-1,0.5,b
+RH.C.P03.S03.SI.01 - Final,ND-2/3,0.56,e
+RH.C.P03.S03.SI.01 - Final,AR-1,0.63,e
+RH.C.P03.S03.SI.01 - Final,ND-1,0.69,e
+RH.C.P03.S03.SI.01 - Final,AR-1,0.75,e
+RH.C.P03.S03.SI.01 - Final,AR-1,0.81,e
+RH.C.P03.S03.SI.01 - Final,ND-1,0.88,e
+RH.C.P03.S03.SI.01 - Final,AR-1,0.94,e
+RH.C.P03.S03.SI.01 - Final,SR,1,e
+segment,,,

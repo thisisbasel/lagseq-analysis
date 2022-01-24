@@ -1,0 +1,97 @@
+filename,segment,location ,split 
+BH.P01.S03.SI.01 - Float - Final,ND-1,0,b
+BH.P01.S03.SI.01 - Float - Final,ND-2/3,0.1,b
+BH.P01.S03.SI.01 - Float - Final,AR-1,0.2,b
+BH.P01.S03.SI.01 - Float - Final,ND-2/3,0.3,b
+BH.P01.S03.SI.01 - Float - Final,CE-2/3,0.4,b
+BH.P01.S03.SI.01 - Float - Final,AR-1,0.5,b
+BH.P01.S03.SI.01 - Float - Final,ND-2/3,0.6,e
+BH.P01.S03.SI.01 - Float - Final,AR-1,0.7,e
+BH.P01.S03.SI.01 - Float - Final,ND-1,0.8,e
+BH.P01.S03.SI.01 - Float - Final,AR-1,0.9,e
+BH.P01.S03.SI.01 - Float - Final,SR,1,e
+segment,segment,,
+BH.P02.S02.SI.01 - Float - Final,ND-1,0,b
+BH.P02.S02.SI.01 - Float - Final,CE-1,0.14,b
+BH.P02.S02.SI.01 - Float - Final,ND-2/3,0.29,b
+BH.P02.S02.SI.01 - Float - Final,CE-1,0.43,b
+BH.P02.S02.SI.01 - Float - Final,CE-2/3,0.57,e
+BH.P02.S02.SI.01 - Float - Final,AR-1,0.71,e
+BH.P02.S02.SI.01 - Float - Final,AR-2/3,0.86,e
+BH.P02.S02.SI.01 - Float - Final,SR,1,e
+segment,segment,,
+JV.P01.S02.SI.01.Float - Final,ND-1,0,b
+JV.P01.S02.SI.01.Float - Final,CE-2/3,0.33,b
+JV.P01.S02.SI.01.Float - Final,AR-2/3,0.67,e
+JV.P01.S02.SI.01.Float - Final,SR,1,e
+segment,segment,,
+JV.P02.S02.SI.01.Float - Final,ND-1,0,b
+JV.P02.S02.SI.01.Float - Final,CE-2/3,0.25,b
+JV.P02.S02.SI.01.Float - Final,AR-1,0.5,b
+JV.P02.S02.SI.01.Float - Final,AR-1,0.75,e
+JV.P02.S02.SI.01.Float - Final,SR,1,e
+segment,segment,,
+JV.P03.S03.SI.01.Float - Final,ND-1,0,b
+JV.P03.S03.SI.01.Float - Final,AR-1,0.14,b
+JV.P03.S03.SI.01.Float - Final,ND-1,0.29,b
+JV.P03.S03.SI.01.Float - Final,CE-2/3,0.43,b
+JV.P03.S03.SI.01.Float - Final,AR-1,0.57,e
+JV.P03.S03.SI.01.Float - Final,ND-1,0.71,e
+JV.P03.S03.SI.01.Float - Final,AR-1,0.86,e
+JV.P03.S03.SI.01.Float - Final,SR,1,e
+segment,segment,,
+JV.P04.S02.SI.01.Float - Final,ND-1,0,b
+JV.P04.S02.SI.01.Float - Final,CE-2/3,0.14,b
+JV.P04.S02.SI.01.Float - Final,AR-2/3,0.29,b
+JV.P04.S02.SI.01.Float - Final,ND-1,0.43,b
+JV.P04.S02.SI.01.Float - Final,AR-1,0.57,e
+JV.P04.S02.SI.01.Float - Final,ND-1,0.71,e
+JV.P04.S02.SI.01.Float - Final,AR-1,0.86,e
+JV.P04.S02.SI.01.Float - Final,SR,1,e
+segment,segment,,
+MG.P01.S03 - Float - Final,ND-1,0,b
+MG.P01.S03 - Float - Final,AR-1,0.06,b
+MG.P01.S03 - Float - Final,ND-1,0.13,b
+MG.P01.S03 - Float - Final,AR-1,0.19,b
+MG.P01.S03 - Float - Final,AR-1,0.25,b
+MG.P01.S03 - Float - Final,ND-1,0.31,b
+MG.P01.S03 - Float - Final,AR-1,0.38,b
+MG.P01.S03 - Float - Final,ND-1,0.44,b
+MG.P01.S03 - Float - Final,AR-1,0.5,b
+MG.P01.S03 - Float - Final,ND-1,0.56,e
+MG.P01.S03 - Float - Final,AR-1,0.63,e
+MG.P01.S03 - Float - Final,ND-1,0.69,e
+MG.P01.S03 - Float - Final,AR-1,0.75,e
+MG.P01.S03 - Float - Final,ND-1,0.81,e
+MG.P01.S03 - Float - Final,AR-1,0.88,e
+MG.P01.S03 - Float - Final,SR,0.94,e
+MG.P01.S03 - Float - Final,CE-2/3,1,e
+segment,segment,,
+MG.P02.S03 - Float - Final,ND-1,0,b
+MG.P02.S03 - Float - Final,AR-1,0.09,b
+MG.P02.S03 - Float - Final,ND-2/3,0.18,b
+MG.P02.S03 - Float - Final,ND-2/3,0.27,b
+MG.P02.S03 - Float - Final,AR-1,0.36,b
+MG.P02.S03 - Float - Final,ND-2/3,0.45,b
+MG.P02.S03 - Float - Final,CE-1,0.55,e
+MG.P02.S03 - Float - Final,CE-2/3,0.64,e
+MG.P02.S03 - Float - Final,AR-2/3,0.73,e
+MG.P02.S03 - Float - Final,ND-1,0.82,e
+MG.P02.S03 - Float - Final,AR-2/3,0.91,e
+MG.P02.S03 - Float - Final,SR,1,e
+segment,segment,,
+MG.P03.S01 - Float - Final,ND-1,0,b
+MG.P03.S01 - Float - Final,CE-2/3,0.2,b
+MG.P03.S01 - Float - Final,AR-1,0.4,b
+MG.P03.S01 - Float - Final,ND-1,0.6,e
+MG.P03.S01 - Float - Final,AR-1,0.8,e
+MG.P03.S01 - Float - Final,SR,1,e
+segment,segment,,
+"RH.P02.S03 - Float, NOWEB-NOCONF - Final",ND-1,0,b
+"RH.P02.S03 - Float, NOWEB-NOCONF - Final",AR-1,0.17,b
+"RH.P02.S03 - Float, NOWEB-NOCONF - Final",ND-1,0.33,b
+"RH.P02.S03 - Float, NOWEB-NOCONF - Final",AR-1,0.5,b
+"RH.P02.S03 - Float, NOWEB-NOCONF - Final",ND-1,0.67,e
+"RH.P02.S03 - Float, NOWEB-NOCONF - Final",AR-1,0.83,e
+"RH.P02.S03 - Float, NOWEB-NOCONF - Final",SR,1,e
+segment,,,
